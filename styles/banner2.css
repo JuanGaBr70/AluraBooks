@@ -1,0 +1,22 @@
+
+.titulo__topicos{
+    margin: 0.5em;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .titulo__topicos{
+        font-size: 24px;
+        margin: 1.5em;
+    }
+    .botões__topicos{
+        font-size: 22px;
+    }
+    
+}
+
+@media screen and (min-width: 1728px){
+    .banner2{
+        padding: 3em 30vw;
+    }
+}
